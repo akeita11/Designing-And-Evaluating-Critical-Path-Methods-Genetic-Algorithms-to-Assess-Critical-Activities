@@ -1,0 +1,17 @@
+,relativedays,relativedays
+,min,max
+concept:name,,
+Assign seriousness,0,44
+Closed,15,59
+Create SW anomaly,0,55
+DUPLICATE,7,7
+INVALID,13,34
+Insert ticket,0,0
+RESOLVED,13,34
+Require upgrade,0,55
+Resolve SW anomaly,0,37
+Resolve ticket,0,58
+Schedule intervention,0,11
+Take in charge ticket,0,48
+VERIFIED,7,56
+Wait,0,48
